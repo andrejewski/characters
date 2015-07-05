@@ -1,0 +1,31 @@
+module.exports = [{
+	first: "Patrick",
+	last: "Star",
+  username: "rockstar26",
+	email: "pstar@bikinibottom.gov",
+	password: "mayonnaise"
+}, {
+	first: "Albert",
+	last: "Einstein",
+  username: "mistaMC",
+	email: "special@relativity.com",
+	password: "eequalsmcsquared"
+}, {
+	first: "Clark",
+	last: "Kent",
+  username: "notsuperman",
+	email: "kent@dailyworld.com",
+	password: "etinotpyrk"
+}, {
+	first: "Gordon",
+	last: "Gekko",
+  username: "moneybagz",
+	email: "ggordon@wallstreet.us",
+	password: "greedisgood"
+}, {
+	first: "Benjamin",
+	last: "Williard",
+  username: "cambo",
+	email: "comsec0101@saigon.mil",
+	password: "stayintheboat"
+}]
